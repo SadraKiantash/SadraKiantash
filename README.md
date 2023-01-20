@@ -1,2 +1,8 @@
-<script src="https://kit.fontawesome.com/17072b3f78.js" crossorigin="anonymous"></script>
-<i class="fa fa-js"></i>
+#Mohammad Sadra Kiantash
+
+##About Me 
+💻I have a burning desire for creating great and modern websites.
+👨‍🎓Currently I'm learning the Required skills to grow as a Front-end developer.
+🎯I'm focusing on growing as much as I can in my career.
+<hr>
+
